@@ -13,3 +13,7 @@ I enjoy building apps that are both functional and visually appealing. I work wi
 - 📚 Experienced with APIs and SwiftData  
 - 🎨 Skilled in Figma for UI/UX design  
 - ⚡ Always learning new iOS technologies
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
