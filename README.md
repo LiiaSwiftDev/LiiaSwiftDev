@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Awa2U4M2NpZTh0dnBkYnBkeTQzNWExcDU0M20wOGpxamJzYzl6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Liia!</h1>
