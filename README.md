@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/blob/main/Tech%20Hearts%20GIF%20by%20Persona.gif?raw=true" width="400"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Liia!</h1>
 
 
