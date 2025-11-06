@@ -4,12 +4,15 @@
 
 <h1 align="center">Hi 👋 I'm Liia!</h1>
 
+<p align="center">I'm an iOS developer working with Swift.</p>
 
-About me.  
+<p align="center">
+I enjoy working with APIs, managing data with SwiftData, and designing beautiful, user-friendly interfaces in Figma.
+</p>
 
-I enjoy building apps that are both functional and visually appealing. I work with APIs, manage data using SwiftData, and design clean, user-friendly interfaces in Figma. Always exploring new iOS technologies to improve my skills and create better apps.  
-
-- 🔭 Completed **iOS Foundations**, **iOS Networking**, and **iOS Databases** courses at **CodeWithChris**  
-- 📚 Experienced with APIs and SwiftData  
-- 🎨 Skilled in Figma for UI/UX design  
-- ⚡ Always learning new iOS technologies
+<ul>
+  <li>🔭 Completed <strong>iOS Foundations</strong>, <strong>iOS Networking</strong>, and <strong>iOS Databases</strong> courses at <strong>CodeWithChris</strong></li>
+  <li>📚 Experienced in working with APIs and SwiftData</li>
+  <li>🎨 Skilled in designing clean and attractive UI in Figma</li>
+  <li>⚡ Always learning new iOS technologies and improving my skills</li>
+</ul>
