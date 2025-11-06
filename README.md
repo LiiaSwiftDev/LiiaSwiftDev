@@ -1,6 +1,5 @@
-<p align="center">
-Hi 👋 I'm Liia!
-</p>
+<h1 align="center">Hi 👋 I'm Liia!</h1>
+
 
 I'm Liia, an iOS developer working with Swift.  
 
