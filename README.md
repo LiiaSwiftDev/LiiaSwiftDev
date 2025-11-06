@@ -14,6 +14,9 @@ I enjoy building apps that are both functional and visually appealing. I work wi
 - 🎨 Skilled in Figma for UI/UX design  
 - ⚡ Always learning new iOS technologies
 
+  
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <span>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
