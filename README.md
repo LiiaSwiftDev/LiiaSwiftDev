@@ -1,4 +1,7 @@
-# Hi 👋 I'm Liia!
+<p align="center">
+  <h1>Hi 👋 I'm Liia!</h1>
+</p>
+
 I'm Liia, an iOS developer working with Swift.  
 
 I enjoy building apps that are both functional and visually appealing. I work with APIs, manage data using SwiftData, and design clean, user-friendly interfaces in Figma. Always exploring new iOS technologies to improve my skills and create better apps.  
