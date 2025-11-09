@@ -6,21 +6,35 @@
 <h1 align="center">Hi 👋 I'm Liia!</h1>
 
 
-About me.  
+## 👩‍💻 About me 
 
-I enjoy building apps that are both functional and visually appealing. I work with APIs, manage data using SwiftData, and design clean, user-friendly interfaces in Figma. Always exploring new iOS technologies to improve my skills and create better apps.  
+Hello! I’m Liia, an iOS developer passionate about creating apps that are engaging, accessible, and meaningful. I enjoy learning, experimenting, and constantly improving my skills.
+My focus is on building clean, intuitive experiences that people enjoy using every day.
 
 - 🔭 Completed **iOS Foundations**, **iOS Networking**, and **iOS Databases** courses at **CodeWithChris**  
 - 📚 Experienced with APIs and SwiftData  
 - 🎨 Skilled in Figma for UI/UX design  
 - ⚡ Always learning new iOS technologies
 
-  
+
+
+### 🛠 Skills & Tools
+
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![SwiftData](https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white)](https://developer.apple.com/documentation/swiftdata)
+[![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/)
+[![JSON](https://img.shields.io/badge/JSON-lightgrey?logo=JSON&logoColor=black)](https://www.json.org/)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <span>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+    
   </span>
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
