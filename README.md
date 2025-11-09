@@ -16,7 +16,7 @@ My focus is on building clean, intuitive experiences that people enjoy using eve
 - 🎨 Skilled in Figma for UI/UX design  
 - ⚡ Always learning new iOS technologies
 
-
+---
 
 ### 🛠 Skills & Tools
 
@@ -29,17 +29,6 @@ My focus is on building clean, intuitive experiences that people enjoy using eve
 [![JSON](https://img.shields.io/badge/JSON-lightgrey?logo=JSON&logoColor=black)](https://www.json.org/)
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <span>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-    
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
-  </span>
-</p>
 
 
 
