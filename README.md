@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/blob/main/Tech%20Hearts%20GIF%20by%20Persona.gif?raw=true" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pndDFmbzYyaTRnbnd1MXc3OXVic2d6ZGQyajV6Mjd3ZTE4bXBxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif?raw=true" width="400"/>
 </p>
+
 
 <h1 align="center">Hi 👋 I'm Liia!</h1>
 
