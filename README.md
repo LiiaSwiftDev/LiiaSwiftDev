@@ -28,6 +28,11 @@ My focus is on building clean, intuitive experiences that people enjoy using eve
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/)
 [![JSON](https://img.shields.io/badge/JSON-lightgrey?logo=JSON&logoColor=black)](https://www.json.org/)
 
+---
+
+### 📊 My GitHub Stats
+
+![Liia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiiaSwiftDev&show_icons=true&theme=radical)
 
 
 
