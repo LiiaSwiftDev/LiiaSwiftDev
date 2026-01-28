@@ -11,7 +11,7 @@
 Hello! I’m Liia, an iOS developer passionate about creating apps that are engaging, accessible, and meaningful. I enjoy learning, experimenting, and constantly improving my skills.
 My focus is on building clean, intuitive experiences that people enjoy using every day.
 
-- 🔭 Completed **iOS Foundations**, **iOS Networking**, and **iOS Databases** courses at **CodeWithChris**  
+- 🔭 Completed **iOS Foundations**, **iOS Networking**, **iOS Databases**, and **iOS App Store** courses at **CodeWithChris**
 - 📚 Experienced with APIs and SwiftData  
 - 🎨 Skilled in Figma for UI/UX design  
 - ⚡ Always learning new iOS technologies
@@ -27,6 +27,7 @@ My focus is on building clean, intuitive experiences that people enjoy using eve
 [![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/)
 [![JSON](https://img.shields.io/badge/JSON-lightgrey?logo=JSON&logoColor=black)](https://www.json.org/)
+[![REST API](https://img.shields.io/badge/REST_API-blue?logo=apireflector&logoColor=white)](https://restfulapi.net/)
 
 ---
 
