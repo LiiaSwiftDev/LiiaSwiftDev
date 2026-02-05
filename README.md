@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/blob/main/Coding%20The%20Matrix%20GIF.gif?raw=true?raw=true" width="400"/>
+  <p align="center">
+  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/raw/main/Gifka.gif" width="400"/>
 </p>
 
 
