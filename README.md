@@ -33,7 +33,7 @@ My focus is on building clean, intuitive experiences that people enjoy using eve
 
 ### 📊 My GitHub Stats
 
-![Liia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiiaSwiftDev&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+![Liia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiiaSwiftDev&show_icons=true&theme=radical)
 
 
 
