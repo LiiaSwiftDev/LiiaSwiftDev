@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/raw/main/Gifka.gif" width="400"/>
+  <img src="https://github.com/LiiaSwiftDev/LiiaSwiftDev/raw/main/Gifka.gif" width="100"/>
 </p>
 
 
