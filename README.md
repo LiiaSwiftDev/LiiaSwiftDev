@@ -1,6 +1,5 @@
 <p align="center">
-  <p align="center">
-  <img src="[https://github.com/LiiaSwiftDev/LiiaSwiftDev/raw/main/Gifka.gif](https://github.com/LiiaSwiftDev/LiiaSwiftDev/blob/main/EasyMath.png)"/>
+  <img src="https://raw.githubusercontent.com/LiiaSwiftDev/LiiaSwiftDev/main/EasyMath.png"/>
 </p>
 
 
